@@ -3,7 +3,7 @@ about: File a bug report
 title: "[Bug]: "
 labels: "bug, not sequenced"
 issue_body: true
-inputs:
+body:
 - type: textarea
   attributes:
     label: Are you able to reproduce the bug?
