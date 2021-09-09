@@ -7,15 +7,15 @@ body:
     value: This issue should be created and assigned to the new individual joining the team
 - type: textarea
   attributes:
-    label: Welcome!
-    description: Customize your welcome message here and feel free to add in any relevant information
+    label: "Welcome!"
+    description: "Customize your welcome message here and feel free to add in any relevant information"
     value: "Welcome to the feeds team! We're excited you're here! Below we've gathered a few links and action items to help you get started"
 - type: checkboxes
     attributes:
       label: Action Items
       description: Here are some things to get you started
       options:
-        - label: Add yourself to the :earth: FR rotation if you're not already on it
+        - label: "Add yourself to the earth FR rotation if you're not already on it"
         - label: Add yourself to the feeds-engineers team
         - label: Make sure you have an invite to the weekly sync
         - label: "Make sure you've been added to the Geekbot standup"
